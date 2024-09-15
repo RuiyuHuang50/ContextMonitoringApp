@@ -1,15 +1,28 @@
 *.iml
 .gradle
 /local.properties
-/.idea/caches
-/.idea/libraries
-/.idea/modules.xml
-/.idea/workspace.xml
-/.idea/navEditor.xml
-/.idea/assetWizardSettings.xml
 .DS_Store
-/build
 /captures
 .externalNativeBuild
 .cxx
 local.properties
+
+# Ignore Android Studio specific files
+.idea/
+.gradle/
+
+# Ignore build output directories
+/build/
+*/build/
+
+# Ignore files for the Android build system
+*.apk
+*.ap_
+*.dex
+*.class
+
+# Ignore large files
+heartrate.mp4
+
+# Ignore log files
+*.log
