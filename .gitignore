@@ -22,7 +22,7 @@ local.properties
 *.class
 
 # Ignore large files
-/res/raw/heartrate.mp4
+/app/src/main/res/raw/heartrate.mp4
 
 # Ignore log files
 *.log
