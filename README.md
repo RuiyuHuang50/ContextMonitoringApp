@@ -77,7 +77,7 @@ Mobile computing involves real-time data analysis, sensor integration, and user 
 
 ## Demo Video
 
-Watch the demo video showcasing the features of the project: [YouTube (unlisted)](https://youtu.be/6uwKEP9_Pbo).
+Watch the demo video showcasing the features of the project: [YouTube (unlisted)](https://youtu.be/w-4QbcUBO5A).
 
 
 
