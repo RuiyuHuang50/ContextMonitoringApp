@@ -1,6 +1,10 @@
 
 # Context Monitoring App (Project 1)
 
+## Demo Video
+
+Watch the demo video showcasing the features of the project: [YouTube (unlisted)](https://youtu.be/w-4QbcUBO5A).
+
 ## Introduction
 
 This project involves developing a context-sensing application for real-time health monitoring, such as heart rate and respiratory rate collection. It integrates sensors, data storage, and feedback mechanisms to provide useful insights about the user’s health.
@@ -75,9 +79,6 @@ Mobile computing involves real-time data analysis, sensor integration, and user 
 
 ---
 
-## Demo Video
-
-Watch the demo video showcasing the features of the project: [YouTube (unlisted)](https://youtu.be/w-4QbcUBO5A).
 
 
 
