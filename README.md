@@ -1,5 +1,5 @@
 
-# Context Monitoring App (Project 1)
+# Context Monitoring App
 
 ## Demo Video
 
